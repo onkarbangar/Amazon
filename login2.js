@@ -1,2 +1,6 @@
-let login_id="omybanger@gmail.com"
-let login_pass="Pass@1234"
+  let str="nrupul";
+   
+    for(let i=0; i<str.length; i++){
+        
+        console.log(str[i]);
+    }
